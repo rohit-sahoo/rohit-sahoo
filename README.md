@@ -18,6 +18,9 @@ I am a Data Analytics Developer at [Tata Consultancy Services](https://www.tcs.c
 - 💻 machine learning projects(development or research)
 
 ### **Tech Skills**
+
+**Certification:** TensorFlow Developer Certificate by TensorFlow, Google
+
 **Languages:** Python, C, SQL(MySQL, PostgreSQL)
 
 **Data Science:** Machine Learning Algorithms, Deep Learning Algorithms, Time Series Forecasting, Natural Language Processing
