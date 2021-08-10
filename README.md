@@ -1,7 +1,6 @@
 ### Hi there, I'm [Rohit Sahoo](https://linkedin.com/in/rohit-sahoo) 👋
 
-I am a Data Analytics Developer at [Tata Consultancy Services](https://www.tcs.com), India. I'm also a Google Certified TensorFlow Developer. I have published several research papers on Machine Learning, Deep Learning and Image Processing. I'm also a 2x Kaggle Expert on kaggle platform. I'm Founder of Decode Engineering, a non profit organisation that helps upcoming engineers to upskill thier preferred tech stack and to find events, internships, hackathons and jobs.
-
+I am a Data Analytics Developer at [Tata Consultancy Services](https://www.tcs.com), India. I'm also a Google Certified TensorFlow Developer. I have published several research papers on Machine Learning, Deep Learning and Image Processing. I'm also a 2x Kaggle Expert on kaggle platform.
 
 - 💻 Currently working on Multivariate Time Series Forecasting using different deep learning algorithms such as RNN, LSTM, GRU and Transformers. Also working on  
 - 👨🏽‍💻 Currently growing my skillset in Machine Learning and Data Science.
@@ -14,8 +13,8 @@ I am a Data Analytics Developer at [Tata Consultancy Services](https://www.tcs.c
 
 ### **I am open to**:
 
-- 👯 any collabration work,
-- 💻 machine learning projects(development or research)
+- 👯 Any collaboration work,
+- 💻 Machine Learning projects(development or research based)
 
 ### **Tech Skills**
 
