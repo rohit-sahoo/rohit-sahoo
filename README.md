@@ -6,7 +6,7 @@ I am a Data Analytics Developer at [Tata Consultancy Services](https://www.tcs.c
 - 💻 Currently working on Multivariate Time Series Forecasting using different deep learning algorithms such as RNN, LSTM, GRU and Transformers. Also working on  
 - 👨🏽‍💻 Currently growing my skillset in Machine Learning and Data Science.
 
-### **My Reseach Interest**:
+### **My Research Interest**:
 - Deep Learning
 - Image Processing
 - Time Series Forecasting
@@ -14,7 +14,7 @@ I am a Data Analytics Developer at [Tata Consultancy Services](https://www.tcs.c
 
 ### **I am open to**:
 
-- 👯 any collobration work,
+- 👯 any collabration work,
 - 💻 machine learning projects(development or research)
 
 ### **Tech Skills**
