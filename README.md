@@ -13,7 +13,6 @@ I am a Data Analytics Developer at [Tata Consultancy Services](https://www.tcs.c
 
 ### **I am open to**:
 
-- 👯 Any collaboration work,
 - 💻 Machine Learning projects(development or research based)
 
 ### **Tech Skills**
