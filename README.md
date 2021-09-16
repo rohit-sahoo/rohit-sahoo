@@ -3,7 +3,7 @@
 I am a Developer working on Data Analytics and Machine Learning at [Tata Consultancy Services](https://www.tcs.com), India. I'm also a Google Certified TensorFlow Developer. I have published several research papers on Machine Learning, Deep Learning and Image Processing. I'm also a 3x Kaggle Expert on kaggle platform.
 
 - 💻 Currently working on Multivariate Time Series Forecasting using different deep learning algorithms such as RNN, LSTM, GRU and Transformers.
-- 👨🏽‍💻 Currently growing my skillset in Machine Learning and Data Science.
+- 👨🏽‍💻 Growing my skillset in Machine Learning and Data Science.
 
 ### **My Research Interest**:
 - Deep Learning
