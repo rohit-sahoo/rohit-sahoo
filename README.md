@@ -1,9 +1,8 @@
 ### Hi there, I'm [Rohit Sahoo](https://linkedin.com/in/rohit-sahoo) 👋
 
-I am a Developer working on Data Analytics and Machine Learning at [Tata Consultancy Services](https://www.tcs.com), India. I'm also a Google Certified TensorFlow Developer. I have published several research papers on Machine Learning, Deep Learning and Image Processing. I'm also a 3x Kaggle Expert on kaggle platform.
+I am a Developer working on Data Science at [Tata Consultancy Services](https://www.tcs.com), India. I'm also a Google Certified TensorFlow Developer. I have published several research papers and chapters on Machine Learning, Deep Learning and Image Processing. I'm also a 3x Kaggle Expert on kaggle platform.
 
 - 💻 Currently working on Multivariate Time Series Forecasting using different deep learning algorithms such as RNN, LSTM, GRU and Transformers.
-- 👨🏽‍💻 Growing my skillset in Machine Learning and Data Science.
 
 ### **My Research Interest**:
 - Deep Learning
@@ -11,26 +10,19 @@ I am a Developer working on Data Analytics and Machine Learning at [Tata Consult
 - Time Series Forecasting
 - Machine Learning
 
-### **I am open to**:
-
-- 💻 Machine Learning projects(development or research based)
-
 ### **Tech Skills**
 
-**Certification:** TensorFlow Developer Certificate by TensorFlow, Google
-
-**Languages:** Python, C, SQL(MySQL, PostgreSQL)
+**Languages:** Python, C, C++, Java, JavaScript, SQL (MySQL, PostgreSQL)
 
 **Data Science:** Machine Learning Algorithms, Deep Learning Algorithms, Time Series Forecasting, Natural Language Processing
 
 **Big Data:** Apache Hadoop, Apache Spark
 
-**Analytics Tools:** Qlik Sense, QlikView, Tableau, IBM DataStage(ETL), MS Excel
+**Analytics Tools:** Qlik Sense, QlikView, Tableau, IBM DataStage(ETL)
 
 **Python Libraries:** TensorFlow, Keras, Pandas, NumPy, Matplotlib, Scikit-learn, Spark MLlib, SpaCy
 
-**Operating System:** Windows, Linux(CentOS, Ubuntu), MacOS
-
+**Cloud:** Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure
 
 
 ### **Connect with me:**
