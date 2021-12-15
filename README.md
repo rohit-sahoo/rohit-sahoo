@@ -4,9 +4,10 @@ I am a Developer working on Data Science at [Tata Consultancy Services](https://
 
 ### **My Research Interest**:
 - Deep Learning
-- Image Processing
 - Time Series Forecasting
 - Machine Learning
+- Natural Language Processing
+- Image Processing
 
 ### **Tech Skills**
 
