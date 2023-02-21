@@ -1,6 +1,6 @@
 ### Hi there, I'm [Rohit Sahoo](https://linkedin.com/in/rohit-sahoo) 👋
 
-I am a Developer working on Data Science at [Tata Consultancy Services](https://www.tcs.com), India. I'm also a Google Certified TensorFlow Developer. I have published several research papers and chapters on Machine Learning, Deep Learning and Image Processing. I'm also a 3x Kaggle Expert on the Kaggle platform.
+Hi, I'm a Graduate MS CS student at Northeastern University, Boston, United States. I worked as a Data Scientist at [Tata Consultancy Services](https://www.tcs.com), India where I worked with Data Analytics and Insights team to find insights from the data. I'm also a Google Certified TensorFlow Developer. I have published several research papers and chapters on Machine Learning, Deep Learning and Image Processing. I'm also a 3x Kaggle Expert on the Kaggle platform.
 
 ### **My Research Interest**:
 - Deep Learning
