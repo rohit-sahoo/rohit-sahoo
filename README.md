@@ -1,34 +1,65 @@
 ### Hi there, I'm [Rohit Sahoo](https://linkedin.com/in/rohit-sahoo) 👋
 
-Hi, I'm a Graduate MS CS student at Northeastern University, Boston, United States. I worked as a Data Scientist at [Tata Consultancy Services](https://www.tcs.com), India where I worked with Data Analytics and Insights team to find insights from the data. I'm also a Google Certified TensorFlow Developer. I have published several research papers and chapters on Machine Learning, Deep Learning and Image Processing. I'm also a 3x Kaggle Expert on the Kaggle platform.
+I'm a **CS Graduate Student at Northeastern University** with over **4 years of experience** building and deploying AI solutions across **finance**, **ESG**, **manufacturing**, and **healthcare**.
 
-### **My Research Interest**:
-- Deep Learning
-- Time Series Forecasting
-- Machine Learning
-- Natural Language Processing
-- Image Processing
+My work spans the entire AI lifecycle—from **data engineering and model development** to **MLOps, scalable deployment**, and **real-world impact**. I specialize in **Machine Learning**, **Generative AI**, **Natural Language Processing**, and **Predictive Analytics**, and I’m passionate about turning complex data into actionable solutions.
 
-### **Tech Skills**
+---
 
-**Languages:** Python, C, C++, Java, JavaScript, SQL (MySQL, PostgreSQL)
+### 🔥 What I’ve Worked On
 
-**Data Science:** Machine Learning Algorithms, Deep Learning Algorithms, Time Series Forecasting, Natural Language Processing
+- 🧠 **AI for ESG & Regulation**  
+  At **IFC, World Bank Group**, I developed **LLM-powered RAG pipelines** to extract insights from ESG documents, improving compliance and decision-making for regulatory stakeholders.
 
-**Big Data:** Apache Hadoop, Apache Spark
+- 🚗 **Forecasting & AI Automation**  
+  At **TCS**, I worked on large-scale **time series models**, **BERT-based NLP systems**, and **MLOps pipelines** for predictive modeling and automation in supply chain and automotive domains.
 
-**Analytics Tools:** Qlik Sense, QlikView, Tableau, IBM DataStage(ETL)
+- 📊 **Academic Projects & Research**  
+  - 🧾 [**ResearchLens**](https://github.com/rohit-sahoo/ResearchLens): Academic reading assistant using fine-tuned LLaMA 2, RAG, GAG, CRF-based NER, and citation retrieval  
+  - 📄 [**Auto-Table-Extract**](https://github.com/rohit-sahoo/auto-table-extract): PDF table detection via clustering and unsupervised learning (**F1 score: 0.89**)
 
-**Python Libraries:** TensorFlow, Keras, Pandas, NumPy, Matplotlib, Scikit-learn, Spark MLlib, SpaCy
+---
 
-**Cloud:** Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure
+### 🛠️ What I’m Good At
 
+✅ **Machine Learning & Predictive Analytics**  
+Time series forecasting (SARIMAX, Prophet, N-Beats), regression/classification models, business intelligence  
+✅ **NLP & Generative AI**  
+LLMs, BERT, RAG, semantic search, document intelligence, prompt engineering  
+✅ **Computer Vision**  
+Image classification, segmentation, OCR, U-Net and Transformer-based architectures  
+✅ **MLOps & AI Deployment**  
+CI/CD workflows, model versioning, Azure ML, AWS SageMaker, Databricks, containerized deployment (ACI/AKS)  
+✅ **Big Data & Scalable Systems**  
+Spark, Hadoop, BigQuery, PySpark, distributed compute for large-scale data workflows
 
-### **Connect with me:**
+---
 
-<p align = "center">
+### 🧰 Tech Stack
 
-[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/rohitsahoo)
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/rohit-sahoo)
+**Languages:** Python, R, SQL, Java, C++  
+**Frameworks:** Scikit-learn, PyTorch, TensorFlow, Hugging Face, Transformers, LangChain, MLflow  
+**MLOps:** Azure ML, Databricks, CI/CD, Model Drift, Registry, Experiment Tracking  
+**Data:** Prefect, Airflow, BigQuery, PySpark, Hadoop  
+**Visualization:** Power BI, QlikSense, Tableau  
+**Cloud:** Azure, AWS, GCP
 
-</p>
+---
+
+### 📌 What I’m Looking For
+
+I'm currently seeking **full-time roles in AI/ML, NLP, or Applied Data Science**, where I can solve high-impact problems, build production-ready solutions, and contribute to advancing intelligent systems.
+
+---
+
+### 📫 Let’s Connect
+
+📧 rohitsahoo741@gmail.com  
+📧 sahoo.ro@northeastern.edu  
+🌐 [LinkedIn](https://linkedin.com/in/rohit-sahoo)  
+🌐 [Kaggle](https://www.kaggle.com/rohitsahoo)  
+🌐 [GitHub](https://github.com/rohit-sahoo)
+
+---
+
+Thanks for stopping by! 🚀
