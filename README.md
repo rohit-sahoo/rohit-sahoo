@@ -2,7 +2,7 @@
 
 I'm a **CS Graduate Student at Northeastern University** with over **4 years of experience** building and deploying AI solutions across **finance**, **ESG**, **manufacturing**, and **healthcare**.
 
-My work spans the entire AI lifecycle—from **data engineering and model development** to **MLOps, scalable deployment**, and **real-world impact**. I specialize in **Machine Learning**, **Generative AI**, **Natural Language Processing**, and **Predictive Analytics**, and I’m passionate about turning complex data into actionable solutions.
+My work spans the entire AI lifecycle from **data engineering and model development** to **MLOps, scalable deployment**, and **real-world impact**. I specialize in **Machine Learning**, **Generative AI**, **Natural Language Processing**, and **Predictive Analytics**, and I’m passionate about turning complex data into actionable solutions.
 
 ---
 
