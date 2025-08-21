@@ -44,11 +44,6 @@ Spark, Hadoop, BigQuery, PySpark, distributed compute for large-scale data workf
 **Visualization:** Power BI, QlikSense, Tableau  
 **Cloud:** Azure, AWS, GCP
 
----
-
-### 📌 What I’m Looking For
-
-I'm currently seeking **full-time roles in AI/ML, NLP, or Applied Data Science**, where I can solve high-impact problems, build production-ready solutions, and contribute to advancing intelligent systems.
 
 ---
 
