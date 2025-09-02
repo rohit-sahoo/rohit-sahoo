@@ -1,60 +1,50 @@
-### Hi there, I'm [Rohit Sahoo](https://linkedin.com/in/rohit-sahoo) 👋
+# 🚀 About Me
 
-I'm a **CS Graduate Student at Northeastern University** with over **4 years of experience** building and deploying AI solutions across **finance**, **ESG**, **manufacturing**, and **healthcare**.
-
-My work spans the entire AI lifecycle from **data engineering and model development** to **MLOps, scalable deployment**, and **real-world impact**. I specialize in **Machine Learning**, **Generative AI**, **Natural Language Processing**, and **Predictive Analytics**, and I’m passionate about turning complex data into actionable solutions.
-
----
-
-### 🔥 What I’ve Worked On
-
-- 🧠 **AI for ESG & Regulation**  
-  At **IFC, World Bank Group**, I developed **LLM-powered RAG pipelines** to extract insights from ESG documents, improving compliance and decision-making for regulatory stakeholders.
-
-- 🚗 **Forecasting & AI Automation**  
-  At **TCS**, I worked on large-scale **time series models**, **BERT-based NLP systems**, and **MLOps pipelines** for predictive modeling and automation in supply chain and automotive domains.
-
-- 📊 **Academic Projects & Research**  
-  - 🧾 [**ResearchLens**](https://github.com/rohit-sahoo/ResearchLens): Academic reading assistant using fine-tuned LLaMA 2, RAG, GAG, CRF-based NER, and citation retrieval  
-  - 📄 [**Auto-Table-Extract**](https://github.com/rohit-sahoo/auto-table-extract): PDF table detection via clustering and unsupervised learning (**F1 score: 0.89**)
+- **Working at [NASA IMPACT](https://www.earthdata.nasa.gov/about/impact)**  
+- 🎓 Completed my **MS in Computer Science** at [Northeastern University](https://www.northeastern.edu/)  
+- 💼 4+ years of experience designing, building, and deploying **AI solutions** across  
+  [Finance](https://en.wikipedia.org/wiki/Finance) · [ESG](https://www.msci.com/our-solutions/esg-investing/what-is-esg-investing) · [Manufacturing](https://en.wikipedia.org/wiki/Manufacturing) · [Healthcare](https://en.wikipedia.org/wiki/Health_care) · [Earth Science](https://science.nasa.gov/earth-science/)
+- 🌍 Previously worked as a **Data Scientist** at  
+  - [The World Bank](https://www.worldbank.org/) — Washington D.C.  
+  - [Tata Consultancy Services](https://www.tcs.com/) for [Fiat Chrysler Automobiles](https://www.stellantis.com/)  
 
 ---
 
-### 🛠️ What I’m Good At
+## 🛠️ Expertise
 
-✅ **Machine Learning & Predictive Analytics**  
-Time series forecasting (SARIMAX, Prophet, N-Beats), regression/classification models, business intelligence  
-✅ **NLP & Generative AI**  
-LLMs, BERT, RAG, semantic search, document intelligence, prompt engineering  
-✅ **Computer Vision**  
-Image classification, segmentation, OCR, U-Net and Transformer-based architectures  
-✅ **MLOps & AI Deployment**  
-CI/CD workflows, model versioning, Azure ML, AWS SageMaker, Databricks, containerized deployment (ACI/AKS)  
-✅ **Big Data & Scalable Systems**  
-Spark, Hadoop, BigQuery, PySpark, distributed compute for large-scale data workflows
+- End-to-end AI/ML lifecycle: data engineering → model development → MLOps & scalable deployment → real-world impact  
+- Data Engineering | Machine Learning | Generative AI | Natural Language Processing (NLP) | Predictive Analytics
+- Passionate about turning complex data into actionable, intelligent solutions
 
 ---
 
-### 🧰 Tech Stack
+## 🔧 Skills & Tools
 
-**Languages:** Python, R, SQL, Java, C++  
-**Frameworks:** Scikit-learn, PyTorch, TensorFlow, Hugging Face, Transformers, LangChain, MLflow  
-**MLOps:** Azure ML, Databricks, CI/CD, Model Drift, Registry, Experiment Tracking  
-**Data:** Prefect, Airflow, BigQuery, PySpark, Hadoop  
-**Visualization:** Power BI, QlikSense, Tableau  
-**Cloud:** Azure, AWS, GCP
+### 👨‍💻 Programming
+- Python | R | Java | SQL | C++  
 
+### 📊 Data Engineering
+- ETL | Data Warehousing | Data Pipelines | Apache Airflow | Apache Kafka | Big Data Processing  
+
+### 🤖 Machine Learning & AI Frameworks
+- Scikit-learn | TensorFlow | PyTorch | PySpark  
+- Hugging Face | Transformers | LangChain | LangGraph | Streamlit | LangSmith  
+
+### ☁️ Cloud & MLOps
+- Databricks | Microsoft Azure (DevOps, AI Search) | AWS (S3, SageMaker)  
+- Hadoop | Spark | CI/CD | Containerization (Docker, Kubernetes)  
+- Tableau | Power BI | QlikSense  
+
+### 🧠 Generative AI
+- Agentic AI | Retrieval-Augmented Generation (RAG) | Prompt Engineering  
+- Guardrails | Vector Search | FAISS | Pinecone | Model Context Protocol (MCP)  
 
 ---
 
-### 📫 Let’s Connect
+
+### 🌐 Let’s Connect
 
 📧 rohitsahoo741@gmail.com  
-📧 sahoo.ro@northeastern.edu  
 🌐 [LinkedIn](https://linkedin.com/in/rohit-sahoo)  
 🌐 [Kaggle](https://www.kaggle.com/rohitsahoo)  
 🌐 [GitHub](https://github.com/rohit-sahoo)
-
----
-
-Thanks for stopping by! 🚀
